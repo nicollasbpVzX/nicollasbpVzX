@@ -1,4 +1,6 @@
-### Hi there 👋
+### NICOLLAS BIANCHINI - 2ºB - ROBOTICA 
+
+![]()![GIF NICK](https://github.com/nicollasbpVzX/nicollasbpVzX/assets/170126745/794d388e-9074-4670-a59a-8f9bd5c0517a)
 
 <!--
 **nicollasbpVzX/nicollasbpVzX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
